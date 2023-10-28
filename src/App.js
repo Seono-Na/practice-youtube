@@ -1,13 +1,5 @@
-import SearchHeader from "./components/SearchHeader";
-import { Outlet } from "react-router-dom";
-
 function App() {
-  return (
-    <>
-      <SearchHeader />
-      <Outlet />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
